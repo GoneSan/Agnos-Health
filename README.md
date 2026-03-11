@@ -1,4 +1,4 @@
-# 🩺 Agnos Health — Registration Page Automated Tests
+## Agnos Health — Registration Page Automated Tests
 Automated UI test suite for the **Agnos Health** registration page, built with [Robot Framework](https://robotframework.org/) and [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/).
 
 ## 📋 Test Scenarios
