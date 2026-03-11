@@ -37,8 +37,8 @@ Agnos/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GoneSan/Agnos.git
-cd Agnos
+git clone https://github.com/GoneSan/Agnos-Health.git
+cd Agnos-Health
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
