@@ -37,7 +37,7 @@ Agnos/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Agnos.git
+git clone https://github.com/GoneSan/Agnos.git
 cd Agnos
 ```
 
